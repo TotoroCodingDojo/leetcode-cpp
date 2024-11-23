@@ -1,0 +1,6 @@
+---
+template: leetcode
+title: Split Array Largest Sum
+number: 410
+link: https://leetcode.com/problems/split-array-largest-sum
+---
